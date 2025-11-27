@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Автосервис</string>
+    <string name="main_menu">Главное меню</string>
+    <string name="repair">Ремонт</string>
+    <string name="paint">Покраска</string>
+    <string name="stats">Статистика</string>
+    <string name="applications">Заявки</string>
+    <string name="save">Сохранить</string>
+    <string name="complete">Выполнить</string>
+    <string name="name">Имя</string>
+    <string name="phone">Номер</string>
+    <string name="car_model">Модель автомобиля</string>
+    <string name="description">Описание проблемы</string>
+    <string name="paint_color">Цвет покраски</string>
+    <string name="completed_tasks">Выполнено заявок:</string>
+    <string name="pending_tasks">Не выполнено заявок:</string>
+    <string name="window_selection">Выбор окна</string>
+</resources>
